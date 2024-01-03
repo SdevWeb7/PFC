@@ -1,0 +1,10 @@
+.container-choice-bonus {
+  background-image: url("/public/images/bg-pentagon.svg");
+  background-size: 350px;
+  background-repeat: no-repeat;
+  background-position: center;
+
+  .popup {
+    animation: 1.5s linear 0s popup;
+  }
+}
